@@ -13,7 +13,7 @@ copyman471/copyman471 is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://github.com/user-attachments/assets/5989ebef-8eae-4549-ba36-eb1df4657a3e)
+![](https://github.com/user-attachments/assets/69897efa-8b9b-44d5-aed4-b65803867e45)
 
 Mail:copyman471@outlook.com
 
