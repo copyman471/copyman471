@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **copyman471/copyman471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://github.com/user-attachments/assets/0dd3b423-6a5b-4809-ac1c-fb5cf5fd4f09)
+
+Mail:copyman471@outlook.com
