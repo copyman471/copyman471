@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github.com/user-attachments/assets/0dd3b423-6a5b-4809-ac1c-fb5cf5fd4f09)
+![](https://github.com/user-attachments/assets/ef3d37a9-e653-4667-b017-b7e4e9ccb559)
 
 Mail:copyman471@outlook.com
