@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 ![](https://github.com/user-attachments/assets/ef3d37a9-e653-4667-b017-b7e4e9ccb559)
 
-Mail:copyman471@outlook.com
+Mail: [`copyman471@outlook.com`](mailto:copyman471@outlook.com)
+
+Matrix: [`copyman471:matrix.org`](https://matrix.to/#/@copyman471:matrix.org)
